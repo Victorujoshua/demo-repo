@@ -7,3 +7,4 @@ Description goes here
 ## Follow the instructions
 
 1. Open index.html on your browser
+2. sell all you have
